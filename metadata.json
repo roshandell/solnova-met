@@ -1,0 +1,28 @@
+{
+  "name": "SOLNOVA",
+  "symbol": "SNV",
+  "description": "SOLNOVA is a next-gen meme-token built on Solana, fast, traceable, and community-driven.",
+  "seller_fee_basis_points": 0,
+  "image": "https://yourdomain.com/logo.png",
+  "external_url": "https://solnova.xyz",
+  "attributes": [
+    { "trait_type": "Type", "value": "Meme Token" },
+    { "trait_type": "Supply", "value": "1,000,000,000" },
+    { "trait_type": "Network", "value": "Solana" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://yourdomain.com/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "31XTMq5xd328SQ6RgvpFBrY55VqXw6JN1RHY3jK4qSLWkNZVzuGrhjzuytnhXgMtVS45Q544mgJvG9tx6toqeztk",
+        "share": 100
+      }
+    ]
+  }
+}
