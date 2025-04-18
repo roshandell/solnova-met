@@ -4,7 +4,7 @@
   "description": "SOLNOVA is a next-gen meme-token built on Solana, fast, traceable, and community-driven.",
   "seller_fee_basis_points": 0,
   "image": "https://yourdomain.com/logo.png",
-  "external_url": "https://solnova.xyz",
+  "external_url": "https://raw.githubusercontent.com/roshandell/solnova-met/main/metadata.json",
   "attributes": [
     { "trait_type": "Type", "value": "Meme Token" },
     { "trait_type": "Supply", "value": "1,000,000,000" },
